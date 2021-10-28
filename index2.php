@@ -10,7 +10,7 @@
     <div class="mt-container">
         <div class="mt-test">
             <div class="mt-test">
-              start 28/10 "11h13" (update 4: "11h17")
+              start 28/10 "11h13" 
             </div>
         </div>
     </div>
